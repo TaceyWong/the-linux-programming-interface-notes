@@ -8,18 +8,18 @@ copyright: "licensed under the <a href='https://github.com/chrissimpkins/cinder/
 
 docs_dir: contents
 
-theme:
-  name: null
-  custom_dir: cinder
-  colorscheme:  dracula
-  highlightjs: true
-  hljs_languages:
-    - yaml
-    - text
-    - shell
-    - c
-    - python
-    - go
+# theme:
+#   name: null
+#   custom_dir: cinder
+#   colorscheme:  dracula
+#   highlightjs: true
+#   hljs_languages:
+#     - yaml
+#     - text
+#     - shell
+#     - c
+#     - python
+#     - go
 
 nav:
   - '目录': "README.md"
