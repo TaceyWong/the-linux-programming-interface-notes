@@ -1,0 +1,28 @@
+site_name: 《Linux/Unix系统编程手册》阅读笔记
+site_url: https://github.com/TaceyWong/the-linux-programming-interface-notes
+site_author: Tacey Wong
+site_description: "《Linux/Unix系统编程手册》阅读笔记"
+repo_url: "https://github.com/TaceyWong/the-linux-programming-interface-notes"
+copyright: "licensed under the <a href='https://github.com/chrissimpkins/cinder/blob/master/LICENSE.md'>MIT license</a>"
+
+
+docs_dir: contents
+
+theme:
+  name: null
+  custom_dir: cinder
+  colorscheme:  dracula
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - text
+    - shell
+    - c
+    - python
+    - go
+
+nav:
+  - Home: "../README.md"
+
+markdown_extensions:
+  - admonition
