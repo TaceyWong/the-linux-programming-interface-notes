@@ -22,7 +22,7 @@ theme:
     - go
 
 nav:
-  - Home: "../README.md"
+  - Home: "README.md"
 
 markdown_extensions:
   - admonition
