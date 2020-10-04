@@ -23,7 +23,7 @@ theme:
 
 nav:
   - '目录': "README.md"
-  - '章节'：
+  - '章节':
     - '第1章　历史和标准': '01-history-and-standards/note.md'
 
 markdown_extensions:
